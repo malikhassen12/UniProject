@@ -16,4 +16,5 @@ Python, PyTorch, NumPy
 - `StandardNeuralNet` — MLP baseline for comparison
 
 ## Status
-Research ongoing
+Research completed
+
